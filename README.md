@@ -7,7 +7,7 @@
 </h5>
 <div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/isharamaduranga/Python-Programming-Conversion_System?label=Repo%20Size&style=for-the-badge&labelColor=black&color=1eb61e)
+![repo size](https://img.shields.io/github/repo-size/isharamaduranga/Web-Pos-System_SPA?label=Repo%20Size&style=for-the-badge&labelColor=black&color=1eb61e)
 ![GitHub forks](https://img.shields.io/github/forks/isharamaduranga/Web-Pos-System_SPA?&labelColor=black&color=2196f3&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/isharamaduranga/Web-Pos-System_SPA?&labelColor=black&color=ff9800&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/isharamaduranga/Web-Pos-System_SPA?logo=github&labelColor=black&color=e91e63&style=for-the-badge)
